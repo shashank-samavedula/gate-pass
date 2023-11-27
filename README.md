@@ -1,2 +1,2 @@
 # Student Gate Pass Management
-Application for Gate Pass Issuing System for College using React Native and Firebase.
+Developed a Gate Pass Issuing System for a college using React Native and Firebase, optimizing the issuance process. Designed an intuitive interface, implemented secure Firebase Authentication, and integrated real-time database functionality. The system's push notifications and scalability enhanced communication and accommodated the college's evolving needs. Improved overall efficiency in gate pass issuance, positively impacting campus security and user experience.
